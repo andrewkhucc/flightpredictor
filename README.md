@@ -25,4 +25,7 @@ The goal is to understand:
 - **Database:** PostgreSQL
 - **Querying & transforms:** SQL (CTEs, views, window functions)
 - **Visualization:** Power BI
-- **Language:** SQL (optionally Python later for modeling)
+- **Language:** SQL
+
+# Notes
+This is a personal project mainly for showcasing/working on my technical skills. Soon, I plan to implement Python into this project.
